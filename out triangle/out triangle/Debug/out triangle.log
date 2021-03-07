@@ -1,0 +1,4 @@
+﻿  out triangle.c
+D:\C\工程文件\out triangle\out triangle\out triangle.c(18,36): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\C\工程文件\out triangle\out triangle\out triangle.c(18,44): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  out triangle.vcxproj -> D:\C\工程文件\out triangle\Debug\out triangle.exe
