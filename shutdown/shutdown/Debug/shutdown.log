@@ -1,0 +1,4 @@
+﻿  shutdown.c
+D:\学习资料\C\工程文件\shutdown\shutdown\shutdown.c(8,8): warning C4013: “system”未定义；假设外部返回 int
+D:\学习资料\C\工程文件\shutdown\shutdown\shutdown.c(12,12): warning C4013: “strcmp”未定义；假设外部返回 int
+  shutdown.vcxproj -> D:\学习资料\C\工程文件\shutdown\Debug\shutdown.exe
