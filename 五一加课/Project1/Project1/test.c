@@ -80,6 +80,7 @@ void print2(int(*p)[5], int r, int c)
 		{
 			printf("%d ", *(*(p + i) + j));
 		}
+
 		printf("\n");
 	}
 }
