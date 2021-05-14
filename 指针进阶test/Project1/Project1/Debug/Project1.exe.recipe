@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>D:\Study\C++\Git_local\Study\指针进阶test\Project1\Debug\Project1.exe</FullPath>
+=======
+      <FullPath>D:\学习资料\C\工程文件\指针进阶test\Project1\Debug\Project1.exe</FullPath>
+>>>>>>> fb1b0a0afaea980f1bdf96d205b50c8fd5213622
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

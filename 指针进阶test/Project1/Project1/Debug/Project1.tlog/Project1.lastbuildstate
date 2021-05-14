@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.28.29910:VCServicingVersionCompilers=14.28.29915:TargetPlatformVersion=10.0.19041.0:
 Debug|Win32|D:\Study\C++\Git_local\Study\指针进阶test\Project1\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.28.29910:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|D:\学习资料\C\工程文件\指针进阶test\Project1\|
+>>>>>>> fb1b0a0afaea980f1bdf96d205b50c8fd5213622
