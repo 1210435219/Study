@@ -21,7 +21,7 @@ int main()
 	char str[100];
 	gets(str);
 	Reverse(str);
-	printf("%s", &str);
+	printf("%s\n", &str);
 
 	return 0;
 }
