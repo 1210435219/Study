@@ -18,6 +18,6 @@ int main()
 	int* *pp = &p;//pp是二级指针，定义方式为int** pp   存放p的地址
 	int** *ppp = &pp;//三级指针
 	**pp = 20;
-	printf("%d", a);
+	printf("%d\n", a);
 	return 0;
 }
