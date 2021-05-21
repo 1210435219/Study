@@ -1,14 +1,6 @@
 ﻿  源.c
-<<<<<<< HEAD
-D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(39,28): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
-D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(39,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
-D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(40,32): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
-D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(40,29): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(43,28): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(43,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(44,32): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+D:\Study\C++\Git_local\Study\指针进阶test\Project1\Project1\源.c(44,29): warning C4024: “strlen”: 形参和实参 1 的类型不同
   Project1.vcxproj -> D:\Study\C++\Git_local\Study\指针进阶test\Project1\Debug\Project1.exe
-=======
-D:\学习资料\C\工程文件\指针进阶test\Project1\Project1\源.c(38,28): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
-D:\学习资料\C\工程文件\指针进阶test\Project1\Project1\源.c(38,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
-D:\学习资料\C\工程文件\指针进阶test\Project1\Project1\源.c(39,32): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
-D:\学习资料\C\工程文件\指针进阶test\Project1\Project1\源.c(39,29): warning C4024: “strlen”: 形参和实参 1 的类型不同
-  Project1.vcxproj -> D:\学习资料\C\工程文件\指针进阶test\Project1\Debug\Project1.exe
->>>>>>> fb1b0a0afaea980f1bdf96d205b50c8fd5213622

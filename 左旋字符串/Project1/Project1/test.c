@@ -17,9 +17,9 @@ void Lef_rot_str(char* str, int k)
 
 int main()
 {
-	int k = 2;
+	int n = 2;
 	char ch[] = "ABBCDE";
-	Lef_rot_str(ch, k);
-	printf("%s\n", &ch);
+	Lef_rot_str(ch, n);
+	printf("%s \n", &ch);
 	return 0;
 }
