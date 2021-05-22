@@ -20,6 +20,6 @@ int main()
 	int n = 2;
 	char ch[] = "ABBCDE";
 	Lef_rot_str(ch, n);
-	printf("%s \n", &ch);
+	printf(" %s \n", &ch);
 	return 0;
 }
