@@ -208,7 +208,7 @@ void FindMine(char mine[ROWS][COLS], char show[ROWS][COLS], int row, int col)
 	}
 	if (win == row * col - EASY)
 	{
-		printf("YOU WIN!\n");
+		printf("YOU  WIN!\n");
 	}
 }
 
